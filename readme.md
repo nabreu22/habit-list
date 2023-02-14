@@ -12,14 +12,10 @@ This project was developed during the NLW week, a project promoted by the Rocket
 </p>
 
 <p align="center">
-  <img alt="habits project" src=".github/preview.jpg">
+  <img alt="project Habits" src=".github/preview.jpg" width="100%">
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="project Habits" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Technologies
 
@@ -32,7 +28,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Habits is an app to help track habits.
+Habits is an app to help track habits and you can only add one day at a time[for now :)].
 
 - [Visit the project online](https://nabreu22.github.io/habit-list)
 
